@@ -28,8 +28,9 @@ I'm a Purdue CS student passionate about **Machine Learning**, **AI Systems**, a
 - **DocuMind — RAG Knowledge Assistant**  
   Full-stack RAG system with OpenAI embeddings + FAISS (Flask + React + AWS).
 
-- **Patent Co-Inventor (CN113610231A)**  
+- **Patent Co-Inventor (CN113610231A)**
   Neural input prediction algorithm improving typing accuracy for 500M+ global users.
+  https://patents.google.com/patent/CN113610231A
 
 ---
 
