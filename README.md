@@ -43,7 +43,7 @@ I'm a Purdue CS student passionate about **Machine Learning**, **AI Systems**, a
 
 ## 📫 Contact
 **Email:** ng161@purdue.edu  
-**LinkedIn:** https://linkedin.com/in/david-ng-cs
+**LinkedIn:** https://www.linkedin.com/in/david-ng-a72b45289/
 
 
 <!---
