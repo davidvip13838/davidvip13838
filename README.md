@@ -5,10 +5,11 @@ I'm a Purdue CS student passionate about **Machine Learning**, **AI Systems**, a
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Python, Java, C/C++  
-**ML:** PyTorch, TensorFlow, ONNX, FAISS  
-**Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker, GitHub Actions  
-**Backend & Frontend:** Flask, React, Spring Boot  
+**Languages:** Python, Java, C/C++, SQL, Bash  
+**ML:** PyTorch, TensorFlow, ONNX, FAISS, model quantization (INT8/FP16), inference optimization, embeddings & vector search  
+**Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker, GitHub Actions, Linux, CI/CD pipelines, basic Kubernetes  
+**Backend & Frontend:** Flask, React, Spring Boot, REST APIs, async services, ML inference endpoints  
+
 
 ---
 
